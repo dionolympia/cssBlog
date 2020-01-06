@@ -1,0 +1,31 @@
+body{
+  box-sizing: border-box;
+  max-width: 900px;
+  width: 80%;
+  border: lightgray solid 20px;
+  margin: 20px auto;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+hr{
+  margin: 25px 0px;
+}
+
+h2{
+  font-size: 2.0rem;
+}
+
+.content{
+  padding: 5%;
+}
+
+.first-paragraph{
+  border-left: lightblue solid 5px;
+  padding-left: 1%;
+}
+
+.date{
+  color: lightskyblue;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}
